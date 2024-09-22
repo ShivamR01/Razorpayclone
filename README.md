@@ -1,1 +1,4 @@
-Install Node modules for tailwind before using this code
+This is a clone project of RAZORPAY.
+Tech Stack used--- TAILWINDCSS
+
+INSTALL NODE MODULES BEFORE USING THIS CODE
