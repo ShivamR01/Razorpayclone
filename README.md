@@ -1,4 +1,2 @@
-This is a clone project of RAZORPAY.
+This is a clone of RAZORPAY website.
 Tech Stack used--- TAILWINDCSS
-
-INSTALL NODE MODULES BEFORE USING THIS CODE
